@@ -167,24 +167,9 @@ Machine Learning implementation for stock price prediction using K-Nearest Neigh
 Collection of projects built while learning React and TypeScript.
 
 ---
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/emmirfahrezi/emmirfahrezi/output/github-snake-dark.svg"
-    />
+## 🐍 Contribution Snake
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/emmirfahrezi/emmirfahrezi/output/github-snake.svg"
-    />
-
-    <img
-      alt="github contribution snake"
-      src="https://raw.githubusercontent.com/emmirfahrezi/emmirfahrezi/output/github-snake.svg"
-    />
-  </picture>
-</p>
+![Snake animation](https://raw.githubusercontent.com/emmirfahrezi/emmirfahrezi/output/github-snake.svg)
 
 ---
 
