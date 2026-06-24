@@ -185,6 +185,7 @@ Collection of projects built while learning React and TypeScript.
     />
   </picture>
 </p>
+
 ---
 
 ## 📊 GitHub Statistics
