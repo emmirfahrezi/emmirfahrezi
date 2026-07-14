@@ -5,233 +5,226 @@
 </p>
 
 <p align="center">
-  Backend-focused developer yang berfokus pada pembangunan REST API, desain database, dan pengembangan aplikasi web menggunakan Laravel, Express.js, serta PostgreSQL.
-</p>
-
-<p align="center">
-  Saat ini sedang memperluas kemampuan frontend dengan React dan TypeScript untuk menjadi Fullstack Engineer.
+Backend-focused developer yang berfokus pada pembangunan REST API, desain database, dan pengembangan aplikasi web menggunakan Laravel, Express.js, serta PostgreSQL.
+<br>
+Saat ini sedang memperluas kemampuan frontend dengan React dan TypeScript untuk menjadi Fullstack Engineer.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Informatics Student
+<table>
+<tr>
+<td width="50%" valign="top">
 
-💻 Backend-Focused Web Developer
+### 👨‍💻 Profile
 
-🔥 Laravel Enthusiast
+- 🎓 Informatics Student
+- 💻 Backend-Focused Web Developer
+- 🔥 Laravel Enthusiast
+- ⚙️ REST API Developer
+- 🗄️ PostgreSQL & MySQL
+- 🌱 Learning React & TypeScript
 
-⚙️ Passionate about Backend Development, API Design, and Database Architecture
+</td>
 
-🌱 Currently Learning
+<td width="50%" valign="top">
 
-* React
-* TypeScript
-* Advanced Laravel
-* Express.js
-* PostgreSQL
-* Software Architecture
+### 🎯 Goals
 
-🎯 Goals
+- 🚀 Become a Professional Fullstack Engineer
+- 📚 Master Laravel Ecosystem
+- ⚡ Build Scalable REST APIs
+- 🏗️ Learn Software Architecture
+- 🤖 Explore Data Science & Machine Learning
+- ☁️ Keep Growing Every Day
 
-* Become a Professional Fullstack Engineer
-* Master Laravel Ecosystem
-* Build Scalable REST APIs
-* Learn Modern React Development
-* Explore Data Science & Machine Learning
-
----
-
-## 💼 What I Usually Build
-
-🔹 REST API using Laravel & Express.js
-
-🔹 Fullstack Web Applications with Laravel Blade + Tailwind CSS
-
-🔹 Authentication & Authorization Systems
-
-🔹 Database Design & Optimization
-
-🔹 CRUD Applications
-
-🔹 Educational & Information Systems
-
-🔹 PostgreSQL & MySQL Based Applications
-
-🔹 Learning React for Modern Frontend Development
-
----
-
-## 🧠 Learning Roadmap
-
-```txt
-⚙️ Backend Engineering
-├── PHP
-├── Laravel
-├── Node.js
-├── Express.js
-├── REST API
-├── Authentication
-├── Authorization
-├── Service Layer
-├── PostgreSQL
-├── MySQL
-└── System Design
-
-🌐 Frontend Development
-├── HTML
-├── CSS
-├── Bootstrap
-├── Tailwind CSS
-├── JavaScript
-├── TypeScript
-├── React
-└── Next.js
-
-📊 Data Science
-├── Python
-├── Pandas
-├── Data Analysis
-├── Machine Learning
-└── Data Visualization
-
-☁️ Development Tools
-├── Git
-├── GitHub
-├── Postman
-├── VS Code
-└── Figma
-```
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,bootstrap" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" /></p>
 
 ### Database
+<p><img src="https://skillicons.dev/icons?i=mysql,postgresql" /></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
+</td>
 
-### Programming Language
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,javascript,typescript,python" />
-</p>
+### Frontend
+<p><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,bootstrap" /></p>
 
 ### Tools
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Learning Roadmap
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+- PHP
+- Laravel
+- Node.js
+- Express.js
+- REST API
+- Authentication
+- PostgreSQL
+- System Design
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Frontend
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+- TypeScript
+- React
+- Next.js
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Science
+- Python
+- Pandas
+- Machine Learning
+- Data Visualization
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Development Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 Inventory Management System
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Inventory management application for e-commerce businesses using PostgreSQL.
+### 🛒 Inventory Management System
+Inventory management application using Laravel & PostgreSQL.
 
 ### 🌴 Tourism Information System
-
-Web-based tourism information system for Kabupaten Bintan.
+Web-based tourism information system.
 
 ### 🔗 REST API Service
+Express.js REST API with PostgreSQL.
 
-Backend API built using Express.js with Service Layer Architecture and PostgreSQL.
+</td>
+
+<td width="50%" valign="top">
 
 ### 🎮 Educational Ecosystem Game
-
-Interactive educational media about plants and animals for elementary school students.
+Interactive learning game with Unity.
 
 ### 📈 Stock Prediction Using KNN
-
-Machine Learning implementation for stock price prediction using K-Nearest Neighbor.
+Machine Learning project using Python.
 
 ### ⚛️ React Learning Projects
+Collection of React & TypeScript projects.
 
-Collection of projects built while learning React and TypeScript.
+</td>
+</tr>
+</table>
 
 ---
+
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/emmirfahrezi/emmirfahrezi/output/github-snake.svg)
+![Snake](https://raw.githubusercontent.com/emmirfahrezi/emmirfahrezi/output/github-snake.svg)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmirfahrezi&show_icons=true&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=emmirfahrezi&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=emmirfahrezi&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emmirfahrezi&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmirfahrezi&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmirfahrezi&theme=tokyo-night" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmirfahrezi&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=emmirfahrezi&theme=tokyo-night"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-```txt
-🔥 Laravel Ecosystem
-⚙️ Express.js API Development
-🗄️ PostgreSQL Database Design
-⚛️ React & TypeScript
-📚 Software Architecture
-📊 Data Science Fundamentals
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🔥 Laravel Ecosystem
+- ⚙️ Express.js API Development
+- 🗄️ PostgreSQL Database Design
+
+</td>
+
+<td width="50%" valign="top">
+
+- ⚛️ React & TypeScript
+- 📚 Software Architecture
+- 📊 Data Science Fundamentals
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/emmir-fahrezi-a939b9281/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="https://instagram.com/https://www.instagram.com/_emmir0/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/emmir-fahrezi-a939b9281/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_emmir0/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-  <b>Backend-Focused Web Developer from Indonesia 🇮🇩</b>
-</p>
-
-<p align="center">
-  Passionate about Laravel, Express.js, PostgreSQL, and building scalable web applications.
-</p>
-
-<p align="center">
-  Currently exploring React and TypeScript to become a better Fullstack Engineer.
-</p>
+<p align="center"><b>Backend-Focused Web Developer from Indonesia 🇮🇩</b></p>
+<p align="center">Passionate about Laravel, Express.js, PostgreSQL, and building scalable web applications.</p>
