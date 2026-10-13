@@ -4,7 +4,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f172a,50:1d4ed8,100:38bdf8&text=Emmir%20Fahrezi&fontColor=ffffff&fontSize=60&fontAlignY=42&desc=Backend%20Developer%20%C2%B7%20GIS%20%C2%B7%20REST%20API&descSize=20&descAlignY=64&animation=fadeIn" width="100%" alt="Emmir Fahrezi banner"/>
+<!-- Perbaikan -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1d4ed8,100:38bdf8&text=Emmir%20Fahrezi&fontColor=ffffff&fontSize=60&fontAlignY=42&desc=Backend%20Developer%20%C2%B7%20GIS%20%C2%B7%20REST%20API&descSize=20&descAlignY=64&animation=fadeIn" width="100%" alt="Emmir Fahrezi banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=820&lines=Backend+Developer+%7C+Laravel+%26+NestJS;REST+API+Engineer;PostgreSQL+%2B+PostGIS+%2B+Prisma;Building+Reliable+Backend+Systems;Future+Fullstack+Engineer" alt="Typing animation"/>
 
